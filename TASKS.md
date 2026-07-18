@@ -15,7 +15,10 @@ message, and tick it off here in the same commit.
 | 7 | Planner v1 | `feat: Planner v1` | ✅ Done |
 | 8 | Secretary v1 | `feat: Secretary v1` | ✅ Done |
 | 9 | Examiner v1 | `feat: Examiner v1` | ✅ Done |
-| 10 | Analytics v1 | `feat: Analytics v1` | ⬜ Next |
+| 10 | Analytics v1 | `feat: Analytics v1` | ✅ Done |
+
+All ten documentation milestones are complete. The next phase (application scaffolding,
+API contracts, implementation) should be planned as a new backlog before writing code.
 
 ## Milestone conventions
 
