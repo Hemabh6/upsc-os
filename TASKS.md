@@ -29,8 +29,8 @@ then deepened, so a usable plan → study → quiz → insight loop exists early
 | # | Milestone | Commit message | Status |
 | --- | --- | --- | --- |
 | 11 | Project scaffolding | `feat: project scaffolding` | ✅ Done |
-| 12 | Shared kernel | `feat: shared kernel` | ⬜ Next |
-| 13 | Database + event backbone | `feat: database and event backbone` | ⬜ Pending |
+| 12 | Shared kernel | `feat: shared kernel` | ✅ Done |
+| 13 | Database + event backbone | `feat: database and event backbone` | ⬜ Next |
 | 14 | Identity + API Gateway | `feat: identity and api gateway` | ⬜ Pending |
 | 15 | Knowledge Graph module | `feat: knowledge graph module` | ⬜ Pending |
 | 16 | Memory Engine module | `feat: memory engine module` | ⬜ Pending |
