@@ -16,6 +16,8 @@
 | Mastery Signal | A time-bound item of evidence about understanding. | A permanent mastery label. |
 | Revision Item | A scheduled recall activity for a learner and concept. | A study commitment, though it may originate from one. |
 | Memory Record | A learner-specific, consent-aware contextual record with provenance. | Chat history. |
+| Task | A learner-owned administrative to-do outside the study plan. | A Study Commitment. |
+| Follow-Up | A system-owed pending action the Secretary tracks to resolution. | A reminder notification. |
 | Knowledge Graph | Shared concepts and their curated relationships. | Private learner memory. |
 | Insight | An explainable, derived observation produced from evidence. | An unverified recommendation. |
 | Recommendation | A proposed action a learner may accept, edit, or reject. | An automatic command. |

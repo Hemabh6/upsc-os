@@ -31,6 +31,9 @@ Every event envelope contains:
 | `EvaluationPublished.v1` | Assessment | Memory, Analytics, Planning, Revision | Validated feedback and score evidence are available. |
 | `MemoryRecordActivated.v1` | Memory | Planning, Learning | Eligible learner context became retrievable. |
 | `MemoryRecordDeleted.v1` | Memory | Retrieval index, Audit | A memory and its derived representations must be removed. |
+| `TaskCaptured.v1` | Secretary | Notification, Analytics | An administrative task was recorded for the learner. |
+| `TaskCompleted.v1` | Secretary | Analytics | A learner completed an administrative task. |
+| `FollowUpResolved.v1` | Secretary | Analytics | An awaited action arrived or the follow-up expired. |
 | `RevisionItemDue.v1` | Revision | Notification | A revision item entered its due window. |
 | `RevisionCompleted.v1` | Revision | Memory, Analytics, Planning | A learner completed scheduled recall. |
 | `InsightProduced.v1` | Analytics | Planner, Secretary | A reproducible learner insight is available. |
