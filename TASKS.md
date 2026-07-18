@@ -11,8 +11,8 @@ message, and tick it off here in the same commit.
 | 3 | Domain Model v1 | `feat: Domain Model v1` | ✅ Done |
 | 4 | Knowledge Graph v1 | `feat: Knowledge Graph v1` | ✅ Done |
 | 5 | Memory Engine v1 | `feat: Memory Engine v1` | ✅ Done |
-| 6 | Learning Engine v1 | `feat: Learning Engine v1` | ⬜ Next |
-| 7 | Planner v1 | `feat: Planner v1` | ⬜ Pending |
+| 6 | Learning Engine v1 | `feat: Learning Engine v1` | ✅ Done |
+| 7 | Planner v1 | `feat: Planner v1` | ⬜ Next |
 | 8 | Secretary v1 | `feat: Secretary v1` | ⬜ Pending |
 | 9 | Examiner v1 | `feat: Examiner v1` | ⬜ Pending |
 | 10 | Analytics v1 | `feat: Analytics v1` | ⬜ Pending |
